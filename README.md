@@ -1,5 +1,5 @@
 # Programa Poliperros
-Aplicación de escritorio desarrollada en Python para la gestión y registro de perritos.
+Aplicación de escritorio desarrollada en Python para la gestión y registro de mascotas.
 
 ## Requisitos
 - Sistema operativo Windows

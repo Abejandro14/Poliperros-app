@@ -5,7 +5,7 @@ Aplicación de escritorio desarrollada en Python para la gestión y registro de 
 - Sistema operativo Windows
 
 ## Instalación
-1. Descargar el archivo `poliperros.exe`
+1. Descargar el archivo `Programa-Poliperros.exe`
 2. Ejecutar el archivo descargado
 3. Seguir las instrucciones en pantalla
 
